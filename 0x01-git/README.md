@@ -1,1 +1,1 @@
-echo my other readme
+echo my other readme updated
